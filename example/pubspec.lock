@@ -95,15 +95,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  keyboard_utils:
+  keyboard_utils_fork:
     dependency: transitive
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: d046ca496ecb66af0269c8b57267755274535d48
-      url: "https://github.com/kapibara91/keyboard_utils.git"
-    source: git
-    version: "1.0.2"
+      name: keyboard_utils_fork
+      sha256: ed75805d7d851ea09367166020e3a2b4132e559421321be0aeedf64fbb483968
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
   leak_tracker:
     dependency: transitive
     description:
